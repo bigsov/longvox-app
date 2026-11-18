@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "build": "20261119-104548",
+  "version": "0.2.1",
+  "build": "20261119-105624",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Meeting recording.\n\n- Record a meeting from the Longvox menu: your microphone and the other side of the call (whatever your Mac plays: Zoom, Teams, FaceTime) are transcribed live as You and Others.\n- When you stop, Apple Intelligence on your Mac writes a summary, key points and action items, and names the meeting (an extractive summary for Russian).\n- A Meetings window: search everything that was said, play any moment, keep notes, export as text, Markdown or subtitles.\n- Needs the System Audio Recording permission the first time (macOS asks).\n- Fixed: quitting Longvox could end in a crash report.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.0/Longvox-0.2.0.zip",
-  "sha256": "8e6e2e5a0549b919ed7d34013d4574306a6198ae0cf076d41783f0ca6410367b",
-  "size": 4633114,
+  "notes": "Speakers in meetings.\n\n- Several people on a call (or in a room) are told apart as Speaker 1, Speaker 2… — download \"Sortformer speaker separation\" (139 MB, once) in Settings › Speech.\n- Rename a speaker by clicking their name in a meeting; the transcript and the summary follow.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.1/Longvox-0.2.1.zip",
+  "sha256": "d84c7769e9444c567652248e893b2a4b3ecac8ea09a99fb65da5a0a82786f49b",
+  "size": 4654752,
   "page": "https://github.com/bigsov/longvox-app"
 }
