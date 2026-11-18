@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "build": "20261119-101134",
+  "published": "2026-11-19",
+  "minimumSystemVersion": "15.0",
+  "notes": "First public version of Longvox for Mac.\n\n- Press F9 in any app and speak English, Russian, or both; the text appears at the cursor.\n- Two presets: Accurate (Qwen3-ASR 1.7B) and Instant (Parakeet v3), running on your Mac's GPU.\n- Optional Russian → English translation while you speak, on-device (Apple Translation).\n- Every dictation is kept with its audio in History; \"Transcribe again\" re-runs any of them.\n- Check for Updates in Settings › About.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.1.0/Longvox-0.1.0.zip",
+  "sha256": "083b7cc283ab7fd53b8e1fec539160e5d1b72a2a5f3b20d27b1dcc8708753753",
+  "size": 4359435,
+  "page": "https://github.com/bigsov/longvox-app"
+}
