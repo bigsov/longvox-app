@@ -1,11 +1,11 @@
 {
-  "version": "0.2.15",
-  "build": "20261119-132643",
+  "version": "0.2.16",
+  "build": "20261119-133549",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Meetings named from your calendar.\n\n- Settings › Meetings › Name meetings from my calendar: a meeting takes the name of the calendar event you are in and lists who was invited; on a one-to-one call the other side is labelled with their name. Your calendar is read on this Mac only. Off until you turn it on.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.15/Longvox-0.2.15.zip",
-  "sha256": "a1696a2b4f62a8cbb64e8c67c475e5b702ceb32cc46b9a964a083b70d4cc7763",
-  "size": 4845026,
+  "notes": "A shortcut for meetings.\n\n- Press Control-Option-M (⌃⌥M) in any app to start recording a meeting, and again to stop.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.16/Longvox-0.2.16.zip",
+  "sha256": "3924ba56436f5e84476c3d9d300f0a24db603548074ddf8e05c0ef8792b8677e",
+  "size": 4847751,
   "page": "https://github.com/bigsov/longvox-app"
 }
