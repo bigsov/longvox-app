@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "build": "20261119-105624",
+  "version": "0.2.2",
+  "build": "20261119-110139",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Speakers in meetings.\n\n- Several people on a call (or in a room) are told apart as Speaker 1, Speaker 2… — download \"Sortformer speaker separation\" (139 MB, once) in Settings › Speech.\n- Rename a speaker by clicking their name in a meeting; the transcript and the summary follow.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.1/Longvox-0.2.1.zip",
-  "sha256": "d84c7769e9444c567652248e893b2a4b3ecac8ea09a99fb65da5a0a82786f49b",
-  "size": 4654752,
+  "notes": "Calls, noticed.\n\n- When Zoom, Teams, FaceTime, Slack, a browser meeting or another call app starts using your microphone, Longvox asks once: \"Record this call?\". Nothing is recorded until you click Record.\n- A recording started that way stops by itself when the call ends.\n- Both can be switched off in Settings › General › Meetings.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.2/Longvox-0.2.2.zip",
+  "sha256": "2d308bac97734da0f3ea88e4330c619c96ef9a6691de1d404a3aa4778df37ab0",
+  "size": 4677681,
   "page": "https://github.com/bigsov/longvox-app"
 }
