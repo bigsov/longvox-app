@@ -1,11 +1,11 @@
 {
-  "version": "0.2.19",
-  "build": "20261119-141539",
+  "version": "0.2.20",
+  "build": "20261119-142108",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "All shortcuts in one place.\n\n- Settings › General › Shortcuts lists every Longvox shortcut — F9, Esc, ⌃⌥V, ⌃⌥M, ⌃⌥H — with what it does, and warns if another app has taken one.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.19/Longvox-0.2.19.zip",
-  "sha256": "cbdc4dfdbf7fb8c3f441e25e443bdc5cba92dc372e1b61597e66ab6bdddf86b6",
-  "size": 4872740,
+  "notes": "Small improvements.\n\n- Check for Updates sees a new version as soon as it is published.\n- Highlighted moments show a ⭐ in the meeting's transcript.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.20/Longvox-0.2.20.zip",
+  "sha256": "f0d6e4e69792317240b2a3e72e53995fbcf3ac9e28ee5e8ae9063a6a2202a977",
+  "size": 4880303,
   "page": "https://github.com/bigsov/longvox-app"
 }
