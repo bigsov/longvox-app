@@ -1,11 +1,11 @@
 {
-  "version": "0.2.11",
-  "build": "20261119-123817",
+  "version": "0.2.12",
+  "build": "20261119-124726",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Your side of the meeting, kept whole.\n\n- If your microphone changes during a meeting (AirPods connecting, a USB microphone unplugged), Longvox carries on recording your side and keeps it in time with the other side.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.11/Longvox-0.2.11.zip",
-  "sha256": "700fbae0ad81c1e8bf77d6095a1b7ccd3701d568f5ab8e30cc53030d8038b5aa",
-  "size": 4805325,
+  "notes": "A fix for recording the other side of a call.\n\n- Fixes a problem in 0.2.10 and 0.2.11 where, now and then, the other side of a call could fail to be recorded when a meeting started. Please update.\n- Your side and the other side now line up exactly from the first second.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.12/Longvox-0.2.12.zip",
+  "sha256": "1217572734827d7c7bc889eb808dc36bed4a11e154ce91fef7cb17a5e1a79eb3",
+  "size": 4807623,
   "page": "https://github.com/bigsov/longvox-app"
 }
