@@ -1,11 +1,11 @@
 {
-  "version": "0.2.9",
-  "build": "20261119-121939",
+  "version": "0.2.10",
+  "build": "20261119-123133",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Meetings survive crashes.\n\n- If Longvox quits, crashes or the Mac loses power during a meeting, the recording was already safe on disk; now the next launch also finishes the meeting — full transcript, speakers, summary — automatically.\n- Imported recordings get more precise turn times.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.9/Longvox-0.2.9.zip",
-  "sha256": "6cd887bcd905acdb75fda064a656a52d98562474b98f94ad6174fb7ebe9a9282",
-  "size": 4796273,
+  "notes": "More dependable meeting recording.\n\n- Your Mac stays awake while a meeting records, so a long in-room meeting is not cut short by sleep.\n- If your headphones disconnect or run out of battery during a call, Longvox keeps recording the other side through the new output.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.10/Longvox-0.2.10.zip",
+  "sha256": "d02e5c8a05c993baa7e7ee7799446dc3355c451ca1c9bacff0bd13a4afc2235b",
+  "size": 4801070,
   "page": "https://github.com/bigsov/longvox-app"
 }
