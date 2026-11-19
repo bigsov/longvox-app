@@ -1,11 +1,11 @@
 {
-  "version": "0.2.13",
-  "build": "20261119-125348",
+  "version": "0.2.14",
+  "build": "20261119-132002",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Back-to-back meetings.\n\n- Fixes a problem where a meeting started while the previous one was still being finished could be cut off. Starting the next call's recording straight away now works.\n- The Longvox menu shows what it is doing while a meeting is finished or a recording is imported.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.13/Longvox-0.2.13.zip",
-  "sha256": "01cd41d6d3c8cece97846710b4fbbb5e44f1486408e445e57e700f54c91849c0",
-  "size": 4816984,
+  "notes": "Meetings in your notes.\n\n- Settings › Meetings › Notes folder: choose your Obsidian vault (or any iCloud Drive or OneDrive folder) and every finished meeting is also saved there as a Markdown note — summary, action items you can tick, your notes and the transcript. The same notes the Longvox iPhone and Windows apps write.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.14/Longvox-0.2.14.zip",
+  "sha256": "2242029a50a6c8338f82e22581e566c09159d660b8797610fb8b91f60681d92d",
+  "size": 4834882,
   "page": "https://github.com/bigsov/longvox-app"
 }
