@@ -1,11 +1,11 @@
 {
-  "version": "0.2.18",
-  "build": "20261119-141044",
+  "version": "0.2.19",
+  "build": "20261119-141539",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Highlights.\n\n- While recording a meeting, click ⭐ or press Control-Option-H (⌃⌥H) in any app to mark the moment. Highlights appear in the meeting's summary — click one to hear it — and in your notes folder.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.18/Longvox-0.2.18.zip",
-  "sha256": "2e1db9e10d8e59985c1ed6316275c8ed5cda088e86b72b895ddba1d2e56ec80e",
-  "size": 4869196,
+  "notes": "All shortcuts in one place.\n\n- Settings › General › Shortcuts lists every Longvox shortcut — F9, Esc, ⌃⌥V, ⌃⌥M, ⌃⌥H — with what it does, and warns if another app has taken one.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.19/Longvox-0.2.19.zip",
+  "sha256": "cbdc4dfdbf7fb8c3f441e25e443bdc5cba92dc372e1b61597e66ab6bdddf86b6",
+  "size": 4872740,
   "page": "https://github.com/bigsov/longvox-app"
 }
