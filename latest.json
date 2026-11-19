@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "build": "20261119-112929",
+  "version": "0.2.6",
+  "build": "20261119-115034",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Better meeting summaries, especially in Russian.\n\n- Russian meetings get a real title and a summary that does not repeat itself; decisions (\"договорились\", \"решили\") are listed as key points, tasks as action items.\n- Ask in Russian finds the right sentences even when the question uses a different word form, and shows when each was said.\n- Long stretches of one person talking read as paragraphs.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.5/Longvox-0.2.5.zip",
-  "sha256": "ee28f818f2a016d78e1f3ee34c35d359be46069a000cc6086c54505eec27369d",
-  "size": 4752474,
+  "notes": "Long meetings.\n\n- Hour-long (and longer) meetings and imported recordings use much less memory: an hour of a typical 48 kHz recording now peaks at about 1.7 GB instead of 2.8 GB.\n- Speakers stay told apart correctly across the whole meeting, however long.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.6/Longvox-0.2.6.zip",
+  "sha256": "937c410e2f4b087ac8fd47b6d62f9097ac234ae8c8d947558f461f58e108272c",
+  "size": 4763642,
   "page": "https://github.com/bigsov/longvox-app"
 }
