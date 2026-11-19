@@ -1,11 +1,11 @@
 {
-  "version": "0.2.14",
-  "build": "20261119-132002",
+  "version": "0.2.15",
+  "build": "20261119-132643",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Meetings in your notes.\n\n- Settings › Meetings › Notes folder: choose your Obsidian vault (or any iCloud Drive or OneDrive folder) and every finished meeting is also saved there as a Markdown note — summary, action items you can tick, your notes and the transcript. The same notes the Longvox iPhone and Windows apps write.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.14/Longvox-0.2.14.zip",
-  "sha256": "2242029a50a6c8338f82e22581e566c09159d660b8797610fb8b91f60681d92d",
-  "size": 4834882,
+  "notes": "Meetings named from your calendar.\n\n- Settings › Meetings › Name meetings from my calendar: a meeting takes the name of the calendar event you are in and lists who was invited; on a one-to-one call the other side is labelled with their name. Your calendar is read on this Mac only. Off until you turn it on.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.15/Longvox-0.2.15.zip",
+  "sha256": "a1696a2b4f62a8cbb64e8c67c475e5b702ceb32cc46b9a964a083b70d4cc7763",
+  "size": 4845026,
   "page": "https://github.com/bigsov/longvox-app"
 }
