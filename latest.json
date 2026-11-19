@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "build": "20261119-110533",
+  "version": "0.2.4",
+  "build": "20261119-111643",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Ask about a meeting.\n\n- New Ask tab in the Meetings window: \"What did we decide about pricing?\", \"Who is doing what by Friday?\" — answered by Apple Intelligence on your Mac from the transcript, with links to the moments it used.\n- For Russian meetings it shows the passages that match best.\n- The menu-bar icon shows when a meeting is recording.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.3/Longvox-0.2.3.zip",
-  "sha256": "41c4f929b45b0a0c14b8f9b583a106e76bafcd09c13b1e3a7fd16d23c4dbd3ab",
-  "size": 4709416,
+  "notes": "Import recordings.\n\n- Meetings window › Import (or drop a file): turn any audio or video — a call recording, a voice memo, a Zoom export — into a meeting with a transcript, speakers and a summary, all on your Mac.\n- Better at telling several voices apart in meetings.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.4/Longvox-0.2.4.zip",
+  "sha256": "695f7e5371c1049419745c818f34dd4e9af3e0d24997f0936929a3b5bd0fa651",
+  "size": 4742423,
   "page": "https://github.com/bigsov/longvox-app"
 }
