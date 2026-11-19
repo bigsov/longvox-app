@@ -7,10 +7,10 @@ subscription, nothing you say leaves the computer.
 
 ## Download
 
-**[Download Longvox 0.2.7 for Mac](https://github.com/bigsov/longvox-app/raw/main/releases/0.2.7/Longvox-0.2.7.zip)**
+**[Download Longvox 0.2.8 for Mac](https://github.com/bigsov/longvox-app/raw/main/releases/0.2.8/Longvox-0.2.8.zip)**
 (Apple silicon, macOS 15 or later)
 
-SHA-256: `1027c60af6167dbb8c9cc71c7e879cf0a59567af37017335e7b2d1b1f0700634`
+SHA-256: `2f21fd72fd03dbd942048d573ee0bc2adcd01a17ef169200d39dcfd66dd6e291`
 
 ## Install
 

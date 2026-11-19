@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "build": "20261119-120121",
+  "version": "0.2.8",
+  "build": "20261119-121307",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Lighter live meetings.\n\n- While a meeting records, Longvox now keeps only the last few seconds of audio in memory (the full recording is saved to disk as you go), so long calls no longer grow its memory use.\n- If transcribing one part of a meeting fails, Longvox carries on from there instead of starting over.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.7/Longvox-0.2.7.zip",
-  "sha256": "1027c60af6167dbb8c9cc71c7e879cf0a59567af37017335e7b2d1b1f0700634",
-  "size": 4767131,
+  "notes": "A tidier meetings list.\n\n- Each meeting shows when it was, how long, and how many people spoke.\n- Right-click a meeting to rename it, show it in Finder, or move it to the Trash (the Delete key works too; Finder can put it back).",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.8/Longvox-0.2.8.zip",
+  "sha256": "2f21fd72fd03dbd942048d573ee0bc2adcd01a17ef169200d39dcfd66dd6e291",
+  "size": 4781823,
   "page": "https://github.com/bigsov/longvox-app"
 }
