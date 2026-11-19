@@ -1,11 +1,11 @@
 {
-  "version": "0.2.21",
-  "build": "20261119-143611",
+  "version": "0.2.22",
+  "build": "20261119-144736",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Smarter search and Ask.\n\n- Search finds a word in any form: \"проверка\" finds \"проверку\", \"pricing\" finds \"price\".\n- Ask about a meeting now also draws on your notes and highlighted moments when your question is about them, and its answers are cleaner.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.21/Longvox-0.2.21.zip",
-  "sha256": "1a7837dede120e2c65e303fbfb240feaebc372b1a198393785800408cf3d097f",
-  "size": 4890267,
+  "notes": "A better first impression.\n\n- The welcome window now introduces meeting recording alongside dictation.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.22/Longvox-0.2.22.zip",
+  "sha256": "2989934d8a4d05f3348da4787b33c6054810d026f0f31a1386ab23739252c722",
+  "size": 4893505,
   "page": "https://github.com/bigsov/longvox-app"
 }
