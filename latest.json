@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "build": "20261119-121307",
+  "version": "0.2.9",
+  "build": "20261119-121939",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "A tidier meetings list.\n\n- Each meeting shows when it was, how long, and how many people spoke.\n- Right-click a meeting to rename it, show it in Finder, or move it to the Trash (the Delete key works too; Finder can put it back).",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.8/Longvox-0.2.8.zip",
-  "sha256": "2f21fd72fd03dbd942048d573ee0bc2adcd01a17ef169200d39dcfd66dd6e291",
-  "size": 4781823,
+  "notes": "Meetings survive crashes.\n\n- If Longvox quits, crashes or the Mac loses power during a meeting, the recording was already safe on disk; now the next launch also finishes the meeting — full transcript, speakers, summary — automatically.\n- Imported recordings get more precise turn times.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.9/Longvox-0.2.9.zip",
+  "sha256": "6cd887bcd905acdb75fda064a656a52d98562474b98f94ad6174fb7ebe9a9282",
+  "size": 4796273,
   "page": "https://github.com/bigsov/longvox-app"
 }
