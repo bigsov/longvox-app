@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "build": "20261119-110139",
+  "version": "0.2.3",
+  "build": "20261119-110533",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Calls, noticed.\n\n- When Zoom, Teams, FaceTime, Slack, a browser meeting or another call app starts using your microphone, Longvox asks once: \"Record this call?\". Nothing is recorded until you click Record.\n- A recording started that way stops by itself when the call ends.\n- Both can be switched off in Settings › General › Meetings.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.2/Longvox-0.2.2.zip",
-  "sha256": "2d308bac97734da0f3ea88e4330c619c96ef9a6691de1d404a3aa4778df37ab0",
-  "size": 4677681,
+  "notes": "Ask about a meeting.\n\n- New Ask tab in the Meetings window: \"What did we decide about pricing?\", \"Who is doing what by Friday?\" — answered by Apple Intelligence on your Mac from the transcript, with links to the moments it used.\n- For Russian meetings it shows the passages that match best.\n- The menu-bar icon shows when a meeting is recording.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.3/Longvox-0.2.3.zip",
+  "sha256": "41c4f929b45b0a0c14b8f9b583a106e76bafcd09c13b1e3a7fd16d23c4dbd3ab",
+  "size": 4709416,
   "page": "https://github.com/bigsov/longvox-app"
 }
