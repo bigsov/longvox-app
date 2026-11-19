@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "build": "20261119-115034",
+  "version": "0.2.7",
+  "build": "20261119-120121",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Long meetings.\n\n- Hour-long (and longer) meetings and imported recordings use much less memory: an hour of a typical 48 kHz recording now peaks at about 1.7 GB instead of 2.8 GB.\n- Speakers stay told apart correctly across the whole meeting, however long.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.6/Longvox-0.2.6.zip",
-  "sha256": "937c410e2f4b087ac8fd47b6d62f9097ac234ae8c8d947558f461f58e108272c",
-  "size": 4763642,
+  "notes": "Lighter live meetings.\n\n- While a meeting records, Longvox now keeps only the last few seconds of audio in memory (the full recording is saved to disk as you go), so long calls no longer grow its memory use.\n- If transcribing one part of a meeting fails, Longvox carries on from there instead of starting over.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.7/Longvox-0.2.7.zip",
+  "sha256": "1027c60af6167dbb8c9cc71c7e879cf0a59567af37017335e7b2d1b1f0700634",
+  "size": 4767131,
   "page": "https://github.com/bigsov/longvox-app"
 }
