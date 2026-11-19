@@ -1,11 +1,11 @@
 {
-  "version": "0.2.17",
-  "build": "20261119-134156",
+  "version": "0.2.18",
+  "build": "20261119-141044",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Safe with a full disk.\n\n- Longvox will not start a meeting when your Mac is nearly out of space, and if space runs low during a meeting it stops and saves everything recorded so far, instead of losing audio.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.17/Longvox-0.2.17.zip",
-  "sha256": "6a390e7ba07eebcb2f84f866e0206dc0c6be33a5946c51a4827956f4eb88b2e2",
-  "size": 4860560,
+  "notes": "Highlights.\n\n- While recording a meeting, click ⭐ or press Control-Option-H (⌃⌥H) in any app to mark the moment. Highlights appear in the meeting's summary — click one to hear it — and in your notes folder.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.18/Longvox-0.2.18.zip",
+  "sha256": "2e1db9e10d8e59985c1ed6316275c8ed5cda088e86b72b895ddba1d2e56ec80e",
+  "size": 4869196,
   "page": "https://github.com/bigsov/longvox-app"
 }
