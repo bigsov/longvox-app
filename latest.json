@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "build": "20261119-111643",
+  "version": "0.2.5",
+  "build": "20261119-112929",
   "published": "2026-11-19",
   "minimumSystemVersion": "15.0",
-  "notes": "Import recordings.\n\n- Meetings window › Import (or drop a file): turn any audio or video — a call recording, a voice memo, a Zoom export — into a meeting with a transcript, speakers and a summary, all on your Mac.\n- Better at telling several voices apart in meetings.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.4/Longvox-0.2.4.zip",
-  "sha256": "695f7e5371c1049419745c818f34dd4e9af3e0d24997f0936929a3b5bd0fa651",
-  "size": 4742423,
+  "notes": "Better meeting summaries, especially in Russian.\n\n- Russian meetings get a real title and a summary that does not repeat itself; decisions (\"договорились\", \"решили\") are listed as key points, tasks as action items.\n- Ask in Russian finds the right sentences even when the question uses a different word form, and shows when each was said.\n- Long stretches of one person talking read as paragraphs.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.5/Longvox-0.2.5.zip",
+  "sha256": "ee28f818f2a016d78e1f3ee34c35d359be46069a000cc6086c54505eec27369d",
+  "size": 4752474,
   "page": "https://github.com/bigsov/longvox-app"
 }
