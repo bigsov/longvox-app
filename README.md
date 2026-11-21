@@ -9,21 +9,23 @@ leaves the computer.
 
 ## Download
 
-**[Download Longvox 0.2.22 for Mac](https://github.com/bigsov/longvox-app/raw/main/releases/0.2.22/Longvox-0.2.22.zip)**
+**[Download Longvox 0.2.23 for Mac](https://github.com/bigsov/longvox-app/raw/main/releases/0.2.23/Longvox-0.2.23.dmg)**
 (Apple silicon, macOS 15 or later)
 
-SHA-256: `2989934d8a4d05f3348da4787b33c6054810d026f0f31a1386ab23739252c722`
+SHA-256: `5380de2e67ebc039e6ce4fcb6eaf6a42691a80d5698010a5faa064e77a35e1ed`
 
 ## Install
 
-1. Open the downloaded zip, then drag **Longvox** into your **Applications** folder.
-2. Open Longvox. This early version is not yet notarised by Apple, so the first
-   time macOS says it cannot check the app. Open **System Settings › Privacy &
-   Security**, scroll down, and click **Open Anyway** next to Longvox. You only
-   do this once.
+1. Open the downloaded **Longvox** disk image and drag **Longvox** onto
+   **Applications**.
+2. Open Longvox from Applications. macOS asks once whether to open an app
+   downloaded from the internet: click **Open**. Longvox is signed with an
+   Apple Developer ID, so there is no "Open Anyway" step in System Settings.
 3. Follow the welcome window:
-   - **Microphone** so Longvox can hear you.
-   - **Accessibility** so it can type into other apps, and so F9 works without Fn.
+   - **Microphone**: click **Allow**.
+   - **Accessibility**, so Longvox can type into other apps and F9 works
+     without Fn. This is the one switch macOS asks you to turn on yourself:
+     Longvox opens the right page, where it is already listed.
    - **Speech models**: a one-time download of about 3 GB from Hugging Face,
      checked against published checksums.
 4. Try it in the welcome window's "Try it here" box, then in any app.

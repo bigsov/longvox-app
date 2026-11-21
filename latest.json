@@ -1,11 +1,11 @@
 {
-  "version": "0.2.22",
-  "build": "20261119-144736",
-  "published": "2026-11-19",
+  "version": "0.2.23",
+  "build": "20261121-155804",
+  "published": "2026-11-21",
   "minimumSystemVersion": "15.0",
-  "notes": "A better first impression.\n\n- The welcome window now introduces meeting recording alongside dictation.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.22/Longvox-0.2.22.zip",
-  "sha256": "2989934d8a4d05f3348da4787b33c6054810d026f0f31a1386ab23739252c722",
-  "size": 4893505,
+  "notes": "Longvox is now signed with an Apple Developer ID. New installs open with one click: no \"Open Anyway\" in System Settings. New downloads come as a disk image: drag Longvox onto Applications.\n\nAfter this update macOS treats Longvox as newly signed, once: it asks again for the microphone, system audio and calendar (click Allow), and Accessibility has to be switched on again. If Longvox already looks switched on in System Settings › Privacy & Security › Accessibility, select it, click −, then click Allow… in Longvox Settings › Permissions and switch it on.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.23/Longvox-0.2.23.zip",
+  "sha256": "f9ab75afaff5ea9f861cdc022240665ba1841c85232ed8ff5560525db786c6b6",
+  "size": 4902112,
   "page": "https://github.com/bigsov/longvox-app"
 }
