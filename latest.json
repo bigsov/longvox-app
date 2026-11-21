@@ -1,11 +1,11 @@
 {
-  "version": "0.2.24",
-  "build": "20261122-041530",
+  "version": "0.2.25",
+  "build": "20261122-044354",
   "published": "2026-11-22",
   "minimumSystemVersion": "15.0",
-  "notes": "New in 0.2.24:\n\n- Spoken punctuation and commands in English and Russian: \"comma\", «запятая», \"full stop\", «точка», \"new line\", \"scratch that\", «зачеркни это». Settings › Speech › Every command lists them all.\n- Spoken numbers become figures, in English and Russian: \"twenty five percent\" → 25%, «пятого декабря» → 5 декабря, «трёхсот сорока тысяч рублей» → 340 000 рублей.\n- Choose any of the 17 speech models Longvox for Windows offers (Settings › Speech › Speech model).\n- Longvox can learn people's voices: in a meeting's transcript, right-click a turn and choose Remember this voice…, and later meetings name that person. Download \"Voice recognition\" in Settings › Speech › Voices first. Voices are kept in the same file format as Longvox for Windows.\n- Ask all meetings at once: the button in the Meetings window's toolbar.\n- Speakers who introduce themselves (\"I'm Anna\", «меня зовут Анна») are named from the calendar invite.\n- History and Meetings open from Settings › General and from the Longvox icon in the Dock (right-click), and ⌘, opens Settings, for MacBooks whose notch hides the menu-bar icon.\n- When the microphone gives only silence, Longvox now says so and points to System Settings › Sound › Input.\n\nLongvox is larger than before (about 52 MB): voice recognition needs Microsoft's ONNX Runtime.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.24/Longvox-0.2.24.zip",
-  "sha256": "ae90b217aa0b462ebbd93ac135ca56bde6300121bc825c07bd9f67643eb7dfba",
-  "size": 15793053,
+  "notes": "New in 0.2.25:\n\n- Test your microphone: Settings › General › Microphone › Test microphone records five seconds with a live level bar, then says whether the microphone gave silence, too little sound or good sound (and what to do), plays the recording back, and shows what the speech model heard.\n- When Longvox hears only silence during a call, it names the app holding the microphone (for example FaceTime), in the test and after a dictation.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.25/Longvox-0.2.25.zip",
+  "sha256": "97c09c9d72a2d5b3555e0c1d4d079bafc680f5f889049edbcf3010b375474756",
+  "size": 15815561,
   "page": "https://github.com/bigsov/longvox-app"
 }
