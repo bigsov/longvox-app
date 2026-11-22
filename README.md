@@ -9,10 +9,10 @@ leaves the computer.
 
 ## Download
 
-**[Download Longvox 0.2.25 for Mac](https://github.com/bigsov/longvox-app/raw/main/releases/0.2.25/Longvox-0.2.25.dmg)**
+**[Download Longvox 0.2.26 for Mac](https://github.com/bigsov/longvox-app/raw/main/releases/0.2.26/Longvox-0.2.26.dmg)**
 (Apple silicon, macOS 15 or later)
 
-SHA-256: `aef24374090102c6da32ddf0ca40c937c3f8084a2594c49d026d8e9f73ac0878`
+SHA-256: `4acf829cf24bbda5e3f7c4f1b46c7f621c4e2177efc72323b19d8ea15dd2adfa`
 
 ## Install
 
