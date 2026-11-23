@@ -1,4 +1,17 @@
-# Longvox for Mac
+# Longvox
+
+## Downloads
+
+| Platform | Download |
+| --- | --- |
+| Android phones | [Longvox Meet APK](https://github.com/bigsov/longvox-app/releases/latest/download/Longvox-Meet-Android.apk) |
+| Windows 10 and 11, 64-bit | [Longvox Meet portable ZIP](https://github.com/bigsov/longvox-app/releases/latest/download/Longvox-Meet-Windows-x64.zip) |
+| Mac with Apple silicon | [Mac downloads and installation](#install) |
+
+On Android, open the APK and follow the installer. In Longvox, open **Meetings → Check for updates** for later releases. On Windows, extract the whole ZIP and open **Longvox.exe**. Windows saves calls in your Meetings library. For a group call, pair each device in Contacts and choose **Group video call** on Windows.
+
+## Longvox for Mac
+
 
 Press **F9** in any app, speak **English, Russian, or both**, and the text appears
 where your cursor is. Optionally, Russian is translated into English while you
