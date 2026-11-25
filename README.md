@@ -12,20 +12,20 @@ On Android, open the APK and follow the installer. In Longvox, open **Meetings �
 
 ## Longvox for Mac
 
-
 Press **F9** in any app, speak **English, Russian, or both**, and the text appears
 where your cursor is. Optionally, Russian is translated into English while you
 speak. Longvox also **records meetings**: you and the other side of a call,
-turned into a transcript with speakers, a summary and action items.
-Everything runs on your Mac: no account, no subscription, nothing you say
-leaves the computer.
+turned into a transcript with speakers, a summary and action items. Speech
+recognition, summaries and translation run on your Mac, with no account and no
+paid service; you can also sync meetings with your paired devices (end-to-end
+encrypted) and join private calls.
 
 ## Download
 
-**[Download Longvox 0.2.26 for Mac](https://github.com/bigsov/longvox-app/raw/main/releases/0.2.26/Longvox-0.2.26.dmg)**
+**[Download Longvox 0.2.27 for Mac](https://github.com/bigsov/longvox-app/raw/main/releases/0.2.27/Longvox-0.2.27.dmg)**
 (Apple silicon, macOS 15 or later)
 
-SHA-256: `4acf829cf24bbda5e3f7c4f1b46c7f621c4e2177efc72323b19d8ea15dd2adfa`
+SHA-256: `ac913c915ea87a964d411cbae1a41d7846b40ec8cec480392b96f858e462be8e`
 
 ## Install
 
@@ -79,6 +79,19 @@ translation.
   meeting as a Markdown note in a folder you choose (an Obsidian vault, say).
 - A meeting cut off by a crash or a power cut is finished at the next launch.
 
+## Calls
+
+- Join private one-to-one audio or video calls, or group video calls, with
+  paired contacts on your private network or by invitation. Calls are hosted by
+  **Longvox for Windows**.
+- With the next Longvox for Windows (0.2.2 does not have these yet) you can also
+  call one of your own devices directly, share a single window from this Mac
+  during a call, and allow the other person to control it. Sharing and control
+  are approved on this Mac for each session and can be stopped at any time.
+  Window control is a preview.
+- Window sharing needs **Screen Recording**; allowing control also needs
+  **Accessibility** and **Input Monitoring** in System Settings.
+
 ## Updates
 
 Use **Check for Updates…** in Settings › About, or the **Updates** button in
@@ -87,9 +100,16 @@ and signature, and relaunches. Your settings, words and history are kept.
 
 ## Privacy
 
-Speech recognition runs on your Mac's GPU, and translation uses Apple's
-on-device Translation framework. Meeting recordings, transcripts and summaries
-stay on your Mac (and in your notes folder, if you choose one). Calendar
-access, if you turn it on, is read on the Mac only. Longvox has no account and
-uses no paid service. It connects to the internet only to download speech
-models and to check this page for updates.
+Speech recognition, meeting summaries and translation run on this Mac. Longvox
+has no account and uses no paid service.
+
+Longvox uses the network to download selected models and system language packs,
+check for and download updates from GitHub, discover nearby devices, sync
+meetings, recordings, voices and corrections with paired devices, and place
+calls with contacts on your private network or join calls by invitation. Device
+sync is end-to-end encrypted.
+
+Calls with a Windows PC may be recorded by that PC, which tells you before you
+join and while recording is active. If you turn on Calendar access, event
+titles and invitees become meeting details that can sync with your paired
+devices.

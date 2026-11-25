@@ -1,11 +1,11 @@
 {
-  "version": "0.2.26",
-  "build": "20261122-191744",
-  "published": "2026-11-22",
+  "version": "0.2.27",
+  "build": "20261126-023914",
+  "published": "2026-11-26",
   "minimumSystemVersion": "15.0",
-  "notes": "New in 0.2.26:\n\n- Edit and delete in History. Edit keeps the earlier text; Delete asks first, and the recording goes to the Bin.\n- Longvox learns from your edits: correct a misheard word in History and it is fixed automatically from then on, as Longvox for Windows does. Settings › Words › Learn from my edits turns it off.\n- Share voices and corrections with Longvox for Windows through your notes folder (OneDrive, iCloud Drive, an Obsidian vault): Settings › General, under Notes folder, with Sync now.\n- Settings › Devices: your meetings, recordings, voices and corrections copied directly between your own devices, with no server in between. For now each device needs Tailscale; syncing over the same Wi-Fi without it is coming.\n- When a FaceTime call silences the microphone, Longvox names FaceTime.",
-  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.26/Longvox-0.2.26.zip",
-  "sha256": "a926b03e3f9af6a9082a55e295c0c736e7e6c615cafa846e46cd5eea7bbf65fa",
-  "size": 16037216,
+  "notes": "New in 0.2.27:\n\n- Private calls: pair with Longvox for Windows on your private network and join audio, video and group video calls from this Mac, with a camera and microphone check before you join.\n- Preview, for the next Longvox for Windows (0.2.2 does not have these yet): call one of your own devices directly, share a single window during a call, and allow the other person to control that window. You approve each session on this Mac and can stop it at any time. Control needs Screen Recording, Accessibility and Input Monitoring.\n- Your devices, directly: pair your Mac with your other Longvox devices using an 8-digit code, and meetings, recordings, voices and corrections sync end-to-end encrypted, with no other network software needed.\n- Russian interface: the whole app follows your macOS language, English or Russian.\n- Meetings: correct a line of a transcript, rename a speaker's label, and see action items from all meetings in one list.\n- Privacy and permission texts now say exactly what each permission is for and what is sent where.",
+  "url": "https://raw.githubusercontent.com/bigsov/longvox-app/main/releases/0.2.27/Longvox-0.2.27.zip",
+  "sha256": "8a5ec6f7943324f78961e2f4b4815742ca766302d66f7cd9fa4cbfbbcbcdba4c",
+  "size": 20955846,
   "page": "https://github.com/bigsov/longvox-app"
 }
